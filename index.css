@@ -39,5 +39,6 @@ body{
 @media (max-width:768px){
    .im{
     flex-direction: column;
+    height: auto;
    }
 }
